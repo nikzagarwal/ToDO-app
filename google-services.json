@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "359502697149",
+    "firebase_url": "https://todo-e8737.firebaseio.com",
+    "project_id": "todo-e8737",
+    "storage_bucket": "todo-e8737.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359502697149:android:c0ef245ede58042adbddd4",
+        "android_client_info": {
+          "package_name": "com.foodiezheaven.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359502697149-flnphbhiuhdp30obs0sh4e04b55pssto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFdYPj3Jn244S4L-qnddXqJfRRR9kbuJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359502697149-flnphbhiuhdp30obs0sh4e04b55pssto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
